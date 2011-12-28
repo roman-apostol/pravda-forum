@@ -1,5 +1,6 @@
-*.ims
+*.iml
 *.war
+.idea/
 .classpath
 .DS_Store
 .project
