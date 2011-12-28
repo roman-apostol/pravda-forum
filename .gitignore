@@ -1,0 +1,9 @@
+*.ims
+*.war
+.classpath
+.DS_Store
+.project
+.settings
+stacktrace.log
+test/reports
+pravda-forum
